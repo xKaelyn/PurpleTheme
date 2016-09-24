@@ -1,0 +1,129 @@
+//META{"name":"DarkTheme Rebooted","description":"Redone the theme completely.","author":"xSklzx Dark & NeoTron","version":"0"}*//
+
+.account {
+	background: #2B062C !important;
+    border-top: 0.1px solid #fff;
+}
+
+.account .account-details .discriminator {
+    color: white !important;
+    opacity: 1;
+}
+
+#voice-connection {
+    background: #2B062C;
+}
+
+#voice-connection .voice-connection-channel {
+    opacity: 1;
+}
+
+.private-channels .channel a {
+    background: #2B062C;
+}
+
+.private-channels .scroller {
+    background: #2B062C;
+}
+
+.private-channels .scroller {
+    opacity: 1 !important;
+    color: white !important;
+}
+
+.private-channels .channel .channel-name {
+    opacity: 1;
+}
+
+.guilds-wrapper .guilds {
+    background: #2B062C;
+}
+
+.theme-dark .chat form {
+    background: #2B062C;
+}
+
+.flex-horizontal>.flex-spacer {
+    background: #2B062C;
+}
+
+.theme-dark .chat .title-wrap {
+    background: #2B062C;
+}
+
+.chat .messages {
+    background: #2B062C;
+}
+
+.theme-dark .chat form .typing {
+    background: #2B062C;
+}
+
+.theme-dark .friends-table .messages .divider.divider-red>span, .theme-dark .messages-wrapper .messages .divider.divider-red>span {
+    background: transparent;
+    color: white;
+}
+
+.theme-dark .friends-table .messages .divider.divider-red>div, .theme-dark .messages-wrapper .messages .divider.divider-red>div {
+    background: blue;
+}
+
+.theme-dark .chat .title-wrap {
+    border-bottom: 0px solid #fff;
+}
+
+.tab-bar.SIDE {
+    background: #2B062C;
+}
+
+.tab-bar.SIDE .tab-bar-item {
+    color: white;
+    border-right: 0px solid #fff;
+}
+
+.settings .settings-inner .settings-panel {
+    background: #2B062C;
+    color: white;
+    border-bottom: 0px solid #fff;
+}
+
+.settings .settings-actions {
+    background: #2B062C;
+    border-top: 0px solid #fff;
+}
+
+.form .control-group label {
+    color: white;
+}
+
+.form .control-group input[type=text], .form .control-group input[type=email], .form .control-group input[type=password], .form .control-group input[type=number], .form .control-group textarea {
+    background: transparent;
+}
+
+.form .control-group input[type=text], .form .control-group input[type=email], .form .control-group input[type=password], .form .control-group input[type=number], .form .control-group textarea {
+    color: white;
+}
+
+.user-settings-modal a {
+    color: red !important;
+}
+
+.change-log-button-container .change-log-button {
+    color: red;
+    opacity: 1;
+}
+
+.change-log-button-container .change-log-button:hover {
+    color: red;
+    opacity: 1;
+}
+
+.form .control-group label a:hover {
+    color: red;
+    opacity: 1;
+}
+
+.form .control-group label a {
+    color: red;
+    opacity: 1;
+}
